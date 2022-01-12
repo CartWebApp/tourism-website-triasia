@@ -103,7 +103,7 @@ p {
     text-shadow: 2px 2px 6px rgb(0 0 0 / 20%);
 }
 
-hr {
+ol {
     font-family: 'NTR', sans-serif;
 }
 .index-about {
@@ -806,7 +806,10 @@ footer a {
     text-align: center;
 }
 .footerlink, .footersrc {
-    font-size: 15px
+    font-size: 14.5px
+}
+
+
 }
 /* Footer End */
 
